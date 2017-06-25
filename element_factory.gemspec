@@ -27,5 +27,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency('rake')
   gem.add_development_dependency('rb-fsevent', '~> 0.9.4')
 
-  gem.add_dependency('activesupport', '>= 3.1', '< 5.0')
+  gem.add_dependency('activesupport', '>= 3.1', '< 5.2')
 end
